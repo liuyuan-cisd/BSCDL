@@ -1,2 +1,2 @@
-# BSDLC
-Biological sequence deep learning classification
+# BSCDL
+Biological sequence classification deep learning
